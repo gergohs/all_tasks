@@ -1,0 +1,2 @@
+public class UseThePostIt {
+}

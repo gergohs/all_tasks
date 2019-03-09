@@ -1,0 +1,15 @@
+#include "pi.h"
+
+float areaCalc (float sampleCircle)
+{
+    float area = (float)radius * radius * PI;
+    return printf("%.2f", area);
+}
+
+
+float circFerCalc (float sampleCircle)
+{
+    float circumference = 2 * (float)radius * PI;
+    return printf("%.2f", circumference);
+}
+
